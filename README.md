@@ -43,5 +43,5 @@ The program will process the specified text files and provide statistical inform
 ## Additional Information
 
 Project Requirements:
-[Google Form - Project Requirements](https://docs.google.com/forms/d/e/1FAIpQLSeyg6Bsb4AduIftmvk94h89IN8iXw1ImNC5Lvh-BrKViQ_0rA/formResponse?pli=1)
+[Google Form - Project Requirements](https://forms.gle/HK2yeEGGBnH9nhSW7)
 
