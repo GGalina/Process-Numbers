@@ -1,7 +1,6 @@
 # Process-Numbers
 
-Test assignment for "Become a Developer 2024. Internship program" to Porta One. The program to process txt files that containing numbers and gice back ststistic information such as minimum value, maximum value, mean, median, longest decreasing sequence, and longest increasing sequence.
-
+Test assignment for the 'Become a Developer 2024 Internship Program' at PortaOne. The program processes .txt files containing numbers and provides statistical information, including the minimum value, maximum value, mean, median, longest decreasing sequence, and longest increasing sequence.
 
 ## Installation
 
